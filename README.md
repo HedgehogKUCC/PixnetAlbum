@@ -1,5 +1,9 @@
 # photo-album
 
+## 展示頁面
+
+<a href="https://hedgehogkucc.github.io/PixnetAlbum/#/index" target="_blank">https://hedgehogkucc.github.io/PixnetAlbum/#/index</a>
+
 ## Project setup
 ```
 npm install
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
